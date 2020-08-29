@@ -4,5 +4,8 @@
   "main": "index.html",
   "author": "Nick Sheck",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
