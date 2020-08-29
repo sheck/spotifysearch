@@ -63,4 +63,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"stimulus":"xy5M"}],"QvaY":[function(require,module,exports) {
 "use strict";var r=require("stimulus"),e=t(require("./controllers/search_controller"));function t(r){return r&&r.__esModule?r:{default:r}}var s=r.Application.start();s.register("search",e.default);
 },{"stimulus":"xy5M","./controllers/search_controller":"RhRS"}]},{},["QvaY"], null)
-//# sourceMappingURL=/js.010d73df.js.map
+//# sourceMappingURL=js.010d73df.js.map
