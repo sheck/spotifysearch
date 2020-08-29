@@ -11,5 +11,8 @@
   "scripts": {
     "start": "node_modules/.bin/parcel index.html --open",
     "build": "node_modules/.bin/parcel build index.html"
+  },
+  "dependencies": {
+    "stimulus": "^1.1.1"
   }
 }
