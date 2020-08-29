@@ -1,0 +1,8 @@
+{
+  "name": "spotifysearch",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Nick Sheck",
+  "license": "MIT",
+  "private": false
+}
